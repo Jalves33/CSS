@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+
+  <body>
+    <section id="home">
+      <h1>Home</h1>
+      <p id="title" class="red">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quae
+        dolore magni quod excepturi, ratione similique tempore adipisci, facere,
+        beatae quidem vitae veritatis aut laudantium recusandae corporis. Eum,
+        pariatur eveniet.
+      </p>
+      <a href="#info">Go to info</a>
+    </section>
+    <section id="info">
+      <h1>Info</h1>
+      <p class="red">
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium
+        assumenda, fuga iste iusto et veniam aspernatur nobis laboriosam
+        veritatis ut molestiae asperiores, at libero nesciunt beatae consectetur
+        dicta officiis vero! ipsum dolor sit amet consectetur adipisicing elit.
+        Eos, doloribus!
+      </p>
+      <a href="#footer">Go to footer</a>
+    </section>
+    <section id="footer">
+      <h1>Footer</h1>
+      <p class="blue">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam, minus!
+      </p>
+      <a href="#home">Back to top</a>
+    </section>
+  </body>
+</html>
